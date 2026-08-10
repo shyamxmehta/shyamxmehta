@@ -27,7 +27,7 @@ JavaScript • TypeScript • Angular • React • C# • SQL • Node.js • A
 
 📧 Email: shyammehta@outlook.com  
 📱 Phone: +254715141554  
-💼 LinkedIn: [[your-linkedin-url]  ](https://www.linkedin.com/in/shyamxmehta/)
+💼 LinkedIn: [[shyamxmehta]  ](https://www.linkedin.com/in/shyamxmehta/)
 
 ---
 
